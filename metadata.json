@@ -1,0 +1,6 @@
+{
+  "name": "CAREER ADVENTURE",
+  "description": "Unit 12: Career Choices - 3D Pixar style gamified English learning platform with interactive games, flashcards, assessment, and AI learning tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
